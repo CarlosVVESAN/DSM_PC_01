@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DSM_PC_01</string>
+    <string name="ingrese_talla">Ingrese su talla (cm)</string>
+    <string name="ingrese_peso">Ingrese su peso (kg)</string>
+</resources>
